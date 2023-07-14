@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a starter kit that's built with [Next.js](https://nextjs.org/), with [Web3Modal](https://web3modal.com/), [Wgami](https://wagmi.sh/) and [Viem](https://viem.sh/) imported and configured. You should helped you get up to speed with building a Web3 dApp in no time!
 
 ## Getting Started
 
