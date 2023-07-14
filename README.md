@@ -1,5 +1,7 @@
 This is a starter kit that's built with [Next.js](https://nextjs.org/), with [Web3Modal](https://web3modal.com/), [Wgami](https://wagmi.sh/) and [Viem](https://viem.sh/) imported and configured. You should helped you get up to speed with building a Web3 dApp in no time!
 
+Built by [@Dbgkinggg](https://twitter.com/DbgKinggg), follow me please and let me know if you have any question!
+
 ## Getting Started
 
 First, run the development server:
